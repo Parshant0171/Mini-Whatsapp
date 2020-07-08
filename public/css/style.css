@@ -121,6 +121,7 @@ a {
 	background: url(../img/Monkey.jpg);
 	background-position: center;
 	background-attachment: fixed;
+	background-repeat: no-repeat;
 	background-size: contain;
 	background-position-x: right;
 }
