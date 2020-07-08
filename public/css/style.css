@@ -120,7 +120,7 @@ a {
 	overflow: hidden;
 	background: url(../img/Monkey.jpg);
 	background-position: center;
-	background-repeat: no-repeat;
+	background-attachment: fixed;
 	background-size: contain;
 	background-position-x: right;
 }
